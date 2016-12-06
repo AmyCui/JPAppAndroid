@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="image_ids">
+        <item>@drawable/clothes</item>
+        <item>@drawable/health</item>
+        <item>@drawable/school</item>
+        <item>@drawable/dating</item>
+        <item>@drawable/married</item>
+        <item>@drawable/divorce</item>
+        <item>@drawable/travel</item>
+        <item>@drawable/work</item>
+    </array>
+    <array name="image_titles">
+        <item>@string/clothes_title</item>
+        <item>@string/health_title</item>
+        <item>@string/school_title</item>
+        <item>@string/dating_title</item>
+        <item>@string/married_title</item>
+        <item>@string/divorce_title</item>
+        <item>@string/travel_title</item>
+        <item>@string/work_title</item>
+    </array>
+    <array name="audio_filename">
+        <item>@string/clothes_audio</item>
+        <item>@string/health_audio</item>
+        <item>@string/school_audio</item>
+        <item>@string/dating_audio</item>
+        <item>@string/married_audio</item>
+        <item>@string/divorce_audio</item>
+        <item>@string/travel_audio</item>
+        <item>@string/work_audio</item>
+    </array>
+    <array name="srt_filename">
+        <item>@string/clothes_srt</item>
+        <item>@string/health_srt</item>
+        <item>@string/school_srt</item>
+        <item>@string/dating_srt</item>
+        <item>@string/married_srt</item>
+        <item>@string/divorce_srt</item>
+        <item>@string/travel_srt</item>
+        <item>@string/work_srt</item>
+    </array>
+
+
+</resources>

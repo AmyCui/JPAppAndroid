@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">JPApp</string>
+
+    <string name="clothes_title">Clothes</string>
+    <string name="clothes_audio">clothes</string>
+    <string name="clothes_srt">clothes_text</string>
+
+    <string name="school_title">School</string>
+    <string name="school_audio">school</string>
+    <string name="school_srt">school_text</string>
+
+    <string name="health_title">Health</string>
+    <string name="health_audio">health</string>
+    <string name="health_srt">health_text</string>
+
+    <string name="dating_title">Dating</string>
+    <string name="dating_audio">dating</string>
+    <string name="dating_srt">dating_text</string>
+
+    <string name="married_title">Married</string>
+    <string name="married_audio">married</string>
+    <string name="married_srt">married_text</string>
+
+    <string name="divorce_title">Divorce</string>
+    <string name="divorce_audio">divorce</string>
+    <string name="divorce_srt">divorce_text</string>
+
+    <string name="travel_title">Travel</string>
+    <string name="travel_audio">travel</string>
+    <string name="travel_srt">travel_text</string>
+
+    <string name="work_title">Work</string>
+    <string name="work_audio">work</string>
+    <string name="work_srt">work_text</string>
+
+
+
+</resources>
